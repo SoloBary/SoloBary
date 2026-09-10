@@ -1,4 +1,4 @@
-<h1 align="center">Bary</h1>
+<h1 align="center">BΔRY</h1>
  
 <p align="center">
 Threat Detection & Response Analyst (L2 SOC) · BSc Computer Science
